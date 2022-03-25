@@ -5,7 +5,7 @@ Para la implementación de la calculadora, he utilizado la librería de Bootstra
 
 # Estructura de la Calculadora
 
-![][https://github.com/fr0ziii/calculadoraAngular/blob/26a5d1fecc6ab00d6f98faff02eddf27342e1001/images.jpg?raw=true]
+![][https://github.com/fr0ziii/calculadoraAngular/blob/26a5d1fecc6ab00d6f98faff02eddf27342e1001/images.jpg]
 
 La calculadora consta de dos filas de texto, la primera de ellas será donde irán los datos que se introduzcan y la segunda de ellos será el resultado de la operación descrita en la fila superior.
 
