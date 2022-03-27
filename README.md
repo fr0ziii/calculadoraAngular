@@ -23,5 +23,9 @@ Ejecuta la orden `ng serve` para el servidor de desarrollo. Dirigete a `http://l
 
 ## Build
 
-Ejecuta `ng build` para construir el proyecto. 
+Ejecuta `ng build` para construir el proyecto.
+
+## Autor
+
+Este proyecto ha sido realizado por David Igleisas Guerra
 
